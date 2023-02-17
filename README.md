@@ -1,8 +1,11 @@
-#ScienceQtech-Employee-Performance-Mapping
-##Project Description
+# **ScienceQtech-Employee-Performance-Mapping**    
 
-Generated reports on employee details, their performance, and on the project that the employees have undertaken, to analyze the employee database and extract specific data based on different requirements.
-##Tasks performed
+## *Project Description*   
+
+
+Generated reports on employee details, their performance, and on the project that the employees have undertaken, to analyze the employee database and extract specific data based on different requirements.  
+
+## Tasks performed
 * Created a database named employee, then inserted values from data_science_team.csv proj_table.csv and emp_record_table.csv into the employee database from the given resources.
 
 * Created an ER diagram for the given employee database.
@@ -33,12 +36,13 @@ Generated reports on employee details, their performance, and on the project tha
 
 The standard being:
 
-For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST'
-For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST'
-For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST'
-For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST'
-For an employee with the experience of 12 to 16 years assign 'MANAGER'
-Created an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
+For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST'.  
+For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST'.  
+For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST'.  
+For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST'.  
+For an employee with the experience of 12 to 16 years assign 'MANAGER'.  
+
+* Created an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
 
 * Wrote a query to calculate the bonus for all the employees, based on their ratings and salaries (Using the formula: 5% of salary * employee rating).
 
